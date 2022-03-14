@@ -7,7 +7,7 @@ __Q1)__ What countries or regions rank the highest in overall happiness and each
 __Q2)__ How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017 reports? \
 __Q3)__ Did any country experience a significant increase or decrease in happiness?
 
-__TR__ 
+__TR__  \
 __Q1)__ Hangi ülkeler veya bölgeler genel mutlulukta ve mutluluğa katkıda bulunan altı faktörün her birinde en yüksek sırada yer alıyor? \
 __Q2)__ 2015-2016 ile 2016-2017 raporları arasında ülke sıralamaları veya puanları nasıl değişti? \
 __Q3)__ Herhangi bir ülke mutlulukta önemli bir artış veya azalma yaşadı mı?
